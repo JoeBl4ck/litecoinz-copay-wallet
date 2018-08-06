@@ -1,0 +1,14 @@
+{
+  "name": "Litecoinz Wallet",
+  "app_id": "com.litecoinz.ltz-wallet-osx",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}

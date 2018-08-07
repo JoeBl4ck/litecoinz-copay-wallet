@@ -1,8 +1,6 @@
 # WARNING #
 This software should be used at your own risk. It is experimental.
 
-<img src="https://static1.squarespace.com/static/5a63831b8c56a8aad3aff672/t/5a9d323224a69491fe051c00/1520253705456/Logo-With-Text-Lightbackground-1000px.png?format=750w" alt="Litecoinz" width="200">
-
 Litecoinz Wallet is a secure bitcoin wallet platform for both desktop and mobile devices. Litecoinz Wallet uses [Bitcore Wallet Service](https://github.com/bitpay/bitcore-wallet-service) (BWS) for peer synchronization and network interfacing.
 
 Binary versions of Litecoinz Wallet are available for download at [litecoinz.org](https://www.litecoinz.org).

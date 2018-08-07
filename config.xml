@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="383007" id="com.litecoinz.wallet" ios-CFBundleVersion="10.0.7" version="10.0.7">
+<widget android-versionCode="383004" id="com.litecoinz.wallet" ios-CFBundleVersion="1.0.4" version="1.0.4">
     <name>Litecoinz Wallet</name>
     <description>
       Litecoinz Wallet
     </description>
     <author email="info@litecoinz.org" href="https://litecoinz.org">
-        Litecoinz Foundation
+        LitecoinZ Developers
     </author>
     <content src="index.html" />
     <access origin="*" />

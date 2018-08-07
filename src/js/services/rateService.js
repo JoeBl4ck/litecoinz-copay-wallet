@@ -44,7 +44,7 @@ RateService.prototype.updateRates = function() {
 
   var backoffSeconds = 5;
   var updateFrequencySeconds = 5 * 60;
-  var rateServiceUrl = 'https://rates.zel.cash/rates';
+  var rateServiceUrl = 'https://blog.litecoinz.org/rates';
 
   function getLTZ(cb, tries) {
     tries = tries || 0;
